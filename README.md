@@ -1,2 +1,0 @@
-# nodecode
-node devops
